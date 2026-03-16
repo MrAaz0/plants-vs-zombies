@@ -1,0 +1,13 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.class
+*.log
+
+# Maven
+/.mvn/
+/.idea/
+/target/
+/pom.xml
